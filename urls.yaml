@@ -1,0 +1,4 @@
+- path: /urlshortyaml
+  url: https://github.com/gophercises/urlshort
+- path: /urlshortyaml2
+  url: https://github.com/gophercises/urlshort/tree/solution
